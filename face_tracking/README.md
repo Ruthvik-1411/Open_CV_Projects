@@ -16,4 +16,4 @@ The flow of the entire project is as follows : <br><br>
 
 >The [python code](https://github.com/Ruthvik-1411/Open_CV_Projects/blob/main/face_tracking/tracking.py) and [arduino code](https://github.com/Ruthvik-1411/Open_CV_Projects/blob/main/face_tracking/face_tracking.ino) can be found above with comments.
 
->Implementation [Video](https://drive.google.com/file/d/1Ilt_n2KuYCI8TCWh4PoS5PScXYz10NuY/view?usp=sharing)
+>YouTube Video Link: https://youtu.be/z-2_2DfBp2M
